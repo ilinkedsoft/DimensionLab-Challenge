@@ -1,0 +1,13 @@
+.VisualUI {
+  flex-grow: 1;
+  font-size: 12px;
+}
+
+.customnode-container {
+  border: 1px solid #555;
+  border-radius: 5px;
+  padding: 8px;
+  box-shadow: 3px 3px 10px grey;
+  background-color: white;
+  overflow: hidden;
+}
